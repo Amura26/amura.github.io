@@ -205,7 +205,7 @@
     </div>
 
     <div id="home" class="hero">
-        <h1>Konsultasi Kesehatan Diri Anda</h1>
+        
         <p>Nikmati layanan konsultasi online gratis tanpa ribet, dan sesuai kebutuhan Anda. Dokter profesional kami siap memberikan solusi.</p>
     </div>
 
